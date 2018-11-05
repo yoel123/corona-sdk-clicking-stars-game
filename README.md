@@ -13,6 +13,9 @@ https://github.com/yoel123/yoel-phaser-js-framework/tree/master/star%20clicker
 java:
 https://github.com/yoel123/yoel-java-slick2d-framework/tree/master/example%20games/clickin%20stars
 
+khan academy code playground (ported my framework to thier js playground too):
+https://www.khanacademy.org/computer-programming/yoel-star-click/4545017716277248
+
 so this is a port of a port using a port of a port framework (from javascript to java to corona sdk lua), I have a way I'm used to for creating games (that's why I create a framework for each engine or language I use).
 
 now you can play clicking stars on all platforms...web, desktop, and Android (because its corona also ios).
